@@ -1,80 +1,118 @@
 # Weekly Nerd @cmda-minor-web · 2018-2019
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+## Weekly Geeks
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+### Weekly Geek 1 - Maaike van Cruchten
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+<details>
+<summary>Schetsen</summary>
 
+![](sketch1.jpg)
 
-Van iedere presentatie maak je sketch-notes en aantekeningen die je op een blog verzamelt. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
+![](sketch2.jpg)
 
+![](skecth3.jpg)
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
+![](sketch4.jpg)
 
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
+</details>
+Korte samenvatting:
 
+Deze Weekly Geek ging voornamelijk over het nut van sketchnotes maken en hoe leuk het kan zijn. We hebben hier vaker mee geëxperimenteerd tijdens Ontwerpgeschiedenis.
 
-### Voorbeelden van voorgaande jaren
+### Weekly Geek 2 - Stephen Hay
 
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
+<details>
+<summary>Schetsen</summary>
 
+![](airbnb.jpg)
 
-## Programma
+</details>
+Korte samenvatting:
 
-### Workshops, praatjes en lezingen
+Stephen Hay vertelde over zijn ergernis van klanten die vragen om net zoiets als Airbnb te ontwerpen. De identiteit van je bedrijf raakt hierdoor verloren en je verdwijnt in de massa die ook het Airbnb ontwerp hanteren.
 
+### Weekly Geek 3 - Matise
 
-| Datum  | Wat  | Waar | Link  |
-|---|---|---|---|
-| 6 Februari | Sketchnotes met Maaike van Cruchten en Brit Wijnmaalen   | CMD |   |
-| 13 Februari | Stephan Hay over Design Patterns  |   |   |
-| 27 Februari | Cyd Stumpel (ex) & Dennis Spierenburg (ex) over werken als Frontender bij Matise | <a href="https://www.matise.nl">Matise</a> |   |
-| 13 Maart | Maike Klip over ontwerpen voor vluchtelingen | CMD | ICONS |
-| 20 Maart | Ischa Gast over A11y | <a href="https://schiphol.nl">Schiphol</a> |   |
-| 27 Maart | Workshop PE | <a href="https://www.voorhoede.nl/nl/">de Voorhoede</a> |   |
-| 10 April | Daan Rongen over afstuderen en je eigen signatuur behouden | CMD  |   |
-| 17 April | Weekly Mingle |   |   |
-| 24 April | Weekly Mingle |   |   |
-| 8 Mei | Weekly Mingle |   |   |
-| 15 Mei | Weekly Mingle |   |   |
-| 22 Mei | Weekly Mingle |   |   |
-| 29 Mei | Weekly Mingle |   |   |
-| 5 Juni | Weekly Mingle |   |   |
-| 12 Juni | Weekly Mingle |   |   |
-| 19 Juni | Weekly Mingle |   |   |
+Korte samenvatting:
 
+Twee werknemers van Matise kwamen laten zien hoe snel iets opgebouwd kan worden zodra je hier makkelijke herbruikbare code voor maakt. Ook werd er verteld waar ze zelf moeite mee hadden tijdens de Minor. Doordat de presentatie op hoog tempo ging, heb ik helaas geen aantekeningen kunnen maken.
 
-### Weekly Mingle
-Voor de Weekly Mingle gaan we een aantal weken bedrijven bezoeken. In kleine groepjes ga je kennismaken, krijg je een rondleiding en een presentatie. De bedrijven die hier aan meewerken zijn:
+### Weekly Geek 4 - Maike Klip
 
-* <a href="https://www.deptagency.com/nl-nl/">Dept Amsterdam</a>	
-* <a href="https://www.elastique.nl">Elastique</a>
-* <a href="https://www.valtech.com/nl-nl/">Valtech Amsterdam</a>
-* <a href="https://www.mirabeau.nl">Mirabeau Amsterdam</a>
-* <a href="https://www.q42.nl/">Q42 Amsterdam</a>
-* <a href="https://www.matise.nl">Matise</a>
-* <a href="https://www.icatt.nl">ICATT interactive media</a>
-* <a href="https://lifely.nl">Lifely</a>
+<details>
+<summary>Schetsen</summary>
 
-[Indeling voor de Weekly Mingle](https://docs.google.com/spreadsheets/d/1p5jQ3j5DAknpjaZVpOfyqoqAt5b-9lf0UkZSx5mDUEM/edit#gid=0)
+![](duo.jpg)
+
+![](duo2.jpg)
+
+Korte samenvatting:
+
+De presentatie ging over de band tussen Duo en die van de klant. In een filmpje werd op straat gevraagd hoe goed jij verbonden wilt zijn met Duo, dit werd ook op het podium getest. Volgens Maaike zijn we de verbinding tussen elkaar kwijt. Ook werd er een stukje besproken over Zondag met Lubach
+
+</details>
+
+### Weekly Geek 5 - Ischa Gast
+
+<details>
+<summary>Schetsen</summary>
+
+![](schiphol.jpg)
+
+</details>
+
+Korte samenvatting:
+
+Op schiphol kregen we 2 sprekers, de eerste vertelde over zijn werkzaamheden voor schiphol en wat er belangrijk is qua accessibility. Vervolgens kwam een blind persoon laten zien hoe hij met zijn computer omgaat, en waar de ergernissen kunnen zijn. Een voorbeeld werd gegeven met zijn zorgverzekeraar.
+
+### Weekly Geek 6 - Voorhoede
+
+<details>
+<summary>Schetsen</summary>
+
+![](voorhoede.jpg)
+
+</details>
+
+Korte samenvatting:
+
+Bij de voorhoede hebben we een uitleg gekregen over hoe er gedacht kan worden op gebied van oplossingen. Vervolgens zijn we in groepen opgedeeld om een probleem aan te pakken. Het doel hiervan was dat er voor elke situatie een passende oplossing was. Iemand zonder javascript moet ook de pagina kunnen gebruiken.
+
+### ~~Weekly Geek 7 - Daan Rongen~~
+
+Deze Weekly geek heb ik helaas niet bij kunnen wonen.
+
+## Weekly Mingle
+
+### Elastique
+
+Elastique is een bedrijf van ongeveer 50 personen. Ze doen alles binnen huis en werken voor redelijk grote bedrijven. Ze bevinden zich in Hilversum, ongeveer 5 minuutjes van het station. Er zijn meerdere teams aanwezig, voor web maar ook voor mobiel. Ik vond het een interessant bedrijf en zou er ook wel stage willen lopen.
+
+### Valtech
+
+Valtech zit in Amsterdam en de meeting werd gegeven in het engels. Het kwam op mij over alsof ze zich beter wilde voordoen dan dat ze zijn. Er werd veel opgeschept met de grote merken waar ze voor werkte en de landen waarin ze gevestigd zaten. Over het algemeen vond ik het geen leuke meeting, en zou hier niet direct solliciteren.
+
+### Mirabeau
+
+Bij Mirabeau hebben we een gesprek gevoerd met drie verschillende sectoren. De designer vertelde dat hij pas kort bij Mirabeau werkte en wat zijn ervaring was tot nu toe. Één van de andere heette Tim, en hij vertelde vol passie hoe hij zijn studentenhuis volledig had geautomatiseerd. Ik vond het erg interessant om hier met hem over te praten en ook na afloop van de mingle hebben we hier nog over door gekletst. Hij had me wat adviezen gegeven van wat ik zou kunnen doen in mijn kamer, want ik was er ook in geïnteresseerd. Over het algemeen heb ik een positief gevoel van het bedrijf.
+
+### Q42
+
+Q42 heeft een onwijs mooie kantoor. Tijdens het gesprek hebben we het gehad over een aantal projecten, en raadde ze ons aan om met Firebase te werken omdat hier gemakkelijk gewerkt kan worden met real-time data. Verder kregen we een rondleiding en was er een grote glijbaan en een schommel in het best kleine pand.
+
+### Matise
+
+Matise kende we qua naam al van een van de Weekly Nerds. De locatie is aan de rand van Artis, en de olifanten zijn te zien vanaf het raam. Na de korte intro over het bedrijf werden we aan het werk gezet en moesten we een oplossing bedenken voor een bestaande klant van Matise. Ondanks ik het niet erg vond om gezamenlijk een idee te bedenken, vond ik het toch wat vreemd om ideeën te genereren die eventueel gebruikt konden worden. Hierdoor vond ik het bedrijf toch wat minder leuk.
+
+### Icatt
+
+Icatt zit op een mooie locatie in het centrum van Amsterdam. Het gesprek was met 4 andere personen. Een hiervan was een oud student die ook haar stage had afgerond bij Icatt. Verder vertelde de leidinggevende over hoe het bedrijf was opgericht. De twee andere jongens vertelde over hun werkzaamheden binnen het bedrijf. Als afsluiten kregen we de taak om met behulp van een formule jezelf te presenteren. Ik vond dit erg goed bedacht en dit helpt je goed naar jezelf te kijken en dat gaf Icatt ook een goed beeld van wie jij eigenlijk bent.
+
+### Lifely
+
+Lifely zit in Amsterdam en is een klein bedrijfje qua personen. Tijdens de Mingle hebben we een snelcursus gekregen over React, Typescript en graphQl. Alles werd live gecodeerd en dit inspireerde mij enorm. Het tempo waarin iets gemaakt werd en de kennis die hij hier over had heeft veel indruk op mij gemaakt. Een van mijn leerdoelen is om React te leren samen met Typescript, en dit kwam mij persoonlijk erg gunstig uit. Ik vond het bedrijf erg tof en zou er ook stage willen lopen.
+
+### Dept
+
+Dept bevond zich in een prachtig pand, waar we door de receptioniste werden ontvangen. Het gesprek werd gevoerd door 2 oud studenten, en die vertelde het proces van hoe ze hier terecht waren gekomen. Vervolgens werd er net zoals bij Valtech veel opgeschept over welke toffe dingen ze allemaal doen. De barbecues die ze hebben, de feesten die gevierd worden en het gezamenlijke wintersport met het bedrijf. Tijdens de rondleiding voelde ik me erg bekeken en voelde ik me niet op mijn gemak. Dit heeft mijn oordeel over het bedrijf wel beïnvloed.
